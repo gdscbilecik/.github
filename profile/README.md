@@ -1,4 +1,4 @@
-## Hi there 👋
+![GDSC Bilecik](../banner.png)
 
 <!--
 
