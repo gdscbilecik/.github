@@ -1,4 +1,4 @@
-![GDSC Bilecik](./../banner.png)
+![GDSC Bilecik](./banner.png)
 
 <!--
 
