@@ -1,1 +1,1 @@
-# .github
+![GDSC Bilecik](./banner.png)
